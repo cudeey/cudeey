@@ -6,5 +6,5 @@
 - 🔭 I’m currently working on **a job portal called JobsKosova.**
 
 - 👀 I’m interested in GSAP JS.
-- 
+ 
 - 📫 Contact me via email: odinarama@outlook.com
